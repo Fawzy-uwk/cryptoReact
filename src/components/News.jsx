@@ -1,5 +1,5 @@
 import { Avatar, Card, Col, Row, Select, Typography } from "antd";
-import { useGetNewsQuery } from "../Services/CryptoNewsApi";
+import { useGetNewsQuery } from "../Services/cryptoNewsApi";
 import Loader from "./Loader";
 import moment from "moment";
 import { useState } from "react";
